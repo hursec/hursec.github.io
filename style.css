@@ -6,7 +6,7 @@
   
   /* unvisited link */
  a :link {
-  color: #ffc400;
+  color: white;
 }
 
 /* visited link */
@@ -21,7 +21,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: white;
+  color: red;
 }
 
 /* set background image per page */
