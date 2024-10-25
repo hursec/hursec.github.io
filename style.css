@@ -21,7 +21,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #ffc400;
+  color: white;
 }
 
 /* set background image per page */
@@ -34,7 +34,7 @@ body {
   background-color: black ;
   color: white;
   font-family: Impact;
-  background-image: url('/images/gifs/hs1d.gif'); 
+  /*background-image: url('/images/gifs/hs1d.gif'); */
   
 
   
